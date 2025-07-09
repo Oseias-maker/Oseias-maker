@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oseias-maker&show_icons=true&theme=radical)
 
 ##
-### Tecnologias que eu uso no meu dia-a-dia:
+### Tecnologias que já tenho conhecimento e prática em estudos/projetos:
 
 <div style="display: flex">
 
